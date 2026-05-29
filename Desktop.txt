@@ -6,6 +6,10 @@ hie
 hello everyone!
 
 commit 1
+<<<<<<< HEAD
 commit 2
 commit 3
 commit 4
+=======
+commit 2
+>>>>>>> parent of 128afb5 (newchanges)
